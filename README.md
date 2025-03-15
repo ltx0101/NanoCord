@@ -1,4 +1,8 @@
+<div align="center">
+
 # NanoCord
+<img src="https://github.com/user-attachments/assets/65359e04-9f3a-4b57-a8be-2db2c8ce113b" width="400" height="300">
+</div>
 
 #### NanoCord is a minimalist and performance-optimized way to use Discord, designed for users who want a smoother experience on low-end or resource-conscious systems. It runs Discord as a streamlined web app in Cromium browsers while disabling unnecessary background processes, extensions, and GPU-intensive features to reduce resource usage. Ideal for users who need a quick, efficient way to access Discord without the lag or system strain of the full desktop client.
 
