@@ -22,9 +22,11 @@
 - **No Extensions or Bloat**  
    Runs in a clean, distraction-free environment.
 
+---
+
 # 🚀 How to Run the Script
 
-1. **Open PowerShell and paste the command below**  
+ **Open PowerShell and paste the command below**  
 ```ps1
 iwr "https://raw.githubusercontent.com/ltx0101/NanoCord/main/Nanocord.ps1" -OutFile "Nanocord.ps1"; .\Nanocord.ps1
 ```
