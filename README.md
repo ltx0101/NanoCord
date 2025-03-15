@@ -22,3 +22,27 @@
 - **No Extensions or Bloat**  
    Runs in a clean, distraction-free environment.
 
+# 🚀 How to Run the Script
+
+1. **Open PowerShell and paste the command below**  
+```ps1
+iwr "https://raw.githubusercontent.com/ltx0101/NanoCord/main/Nanocord.ps1" -OutFile "Nanocord.ps1"; .\Nanocord.ps1
+```
+
+### ❗Error: "Running Scripts is Disabled on this System"❗ 
+<details>  
+<summary> Click Here </summary>
+
+If you encounter the error **"Running Scripts is Disabled on this System"**, it means that PowerShell's execution policy is preventing scripts from running for security reasons.
+
+To resolve this, follow these steps:
+
+1. **Open PowerShell as Administrator**  
+   
+2. **Change the Execution Policy**  
+   Run the following command in the PowerShell window to allow locally-created scripts to run:
+
+   ```ps1
+   Set-ExecutionPolicy -ExecutionPolicy RemoteSigned
+   ```
+</details>
